@@ -1,0 +1,42 @@
+body {
+  background-color: #eaf1f5;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.container h1 {
+  font-size: 48px;
+  color: #4a6c74;
+  margin-bottom: 20px;
+}
+
+#timer {
+  font-size: 40px;
+  margin-bottom: 30px;
+  color: #222;
+}
+
+.buttons button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#start {
+  background-color: #87bbaa;
+  color: black;
+}
+
+#stop {
+  background-color: red;
+  color: white;
+}
+
+#reset {
+  background-color: #b7e4c7;
+  color: black;
+}
